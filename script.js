@@ -1,30 +1,3 @@
-// class Calculator {
-//   constructor(previousOperandTextElement, currentOperandTextElement) {
-//     this.previousOperandTextElement = previousOperandTextElement
-//     this.currentOperandTextElement = currentOperandTextElement
-//     this.clear
-//   }
-//   clear() {}
-//   delete() {}
-//   appendNumber(number) {}
-//   chooseOperation(operation) {}
-//   compute() {}
-//   updateDisplay() {}
-// }
-
-// const numberButtons = document.querySelectorAll('[data-number]')
-// const operationButtons = document.querySelectorAll('[data-operation]')
-// const equalsButton = document.querySelectorAllf('[data-equals]')
-// const deleteButton = document.querySelectorAll('[data-delete]')
-// const allClearButton = document.querySelectorAll('[data-all-clear]')
-// const Button = document.querySelectorAll('[data-delete]')
-// const previousOperandTextElement = document.querySelectorAll(
-//   '[data-onceki-islem]'
-// )
-// const currentOperandTextElement = document.querySelectorAll(
-//   '[data-gecerli-islem]'
-// )
-
 const display = document.querySelector('.calculator-input')
 const keys = document.querySelector('.calculator-grid')
 
