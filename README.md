@@ -1,2 +1,2 @@
-# calculater
-https://sametakkaya.github.io/calculater/
+# calculator
+https://sametakkaya.github.io/calculator/
